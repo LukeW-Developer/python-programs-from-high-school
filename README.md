@@ -1,4 +1,4 @@
-# python-programs-from-high-school
+# python-high-school-projects
 This repo contains a collection of programs I made during High School.
 
 The programs featured are:
